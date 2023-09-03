@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cambiar_azul"
+        android:title="Cambiar a azul"
+        android:orderInCategory="10"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/cambiar_verde"
+        android:title="Cambiar a verde"
+        android:orderInCategory="20"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/cambiar_rojo"
+        android:title="Cambiar a rojo"
+        android:orderInCategory="30"
+        app:showAsAction="always"/>
+</menu>
